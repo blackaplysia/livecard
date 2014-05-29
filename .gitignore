@@ -1,0 +1,23 @@
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Directories
+bin/
+gen/
+
+# Local configuration files
+local.properties
+
+# Eclipse
+.classpath
+.project
+proguard/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
