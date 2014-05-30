@@ -12,7 +12,6 @@
     android:textColor="@color/white"
     android:text="Hello World, LiveCardMenuActivity"
     android:textSize="54px"
-    android:textAppearance="?android:attr/textAppearanceLarge"
     />
 </LinearLayout>
 
