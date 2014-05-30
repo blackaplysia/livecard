@@ -3,12 +3,16 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:background="@color/black"
     >
 <TextView
     android:id="@+id/contents"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:text=""
+    android:textColor="@color/white"
+    android:text="Hello World, LiveCardMenuActivity"
+    android:textSize="54px"
+    android:textAppearance="?android:attr/textAppearanceLarge"
     />
 </LinearLayout>
 
