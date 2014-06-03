@@ -8,4 +8,9 @@
     <item name="android:windowAnimationStyle">@null</item>
   </style>
 
+  <style name="CardText">
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textSize">54px</item>
+  </style>
+
 </resources>
